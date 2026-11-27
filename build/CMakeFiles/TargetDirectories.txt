@@ -1,0 +1,4 @@
+/workspace/build/CMakeFiles/KingRoguelike.dir
+/workspace/build/CMakeFiles/edit_cache.dir
+/workspace/build/CMakeFiles/rebuild_cache.dir
+/workspace/build/CMakeFiles/KingRoguelike_autogen.dir

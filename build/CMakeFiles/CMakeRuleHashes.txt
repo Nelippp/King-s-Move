@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+bbee68f812dc93be53192ab22b6adfd5 CMakeFiles/KingRoguelike_autogen
